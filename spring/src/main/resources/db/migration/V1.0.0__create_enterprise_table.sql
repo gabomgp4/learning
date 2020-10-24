@@ -1,0 +1,1 @@
+create table enterprise (id int4 not null, primary key (id))
